@@ -1,5 +1,9 @@
 # AppAhorroIPhone
-Desarrollo del proyecto de aplicaicónes móviles en la cuál se busca ahcer una aplicaicón movil de desarrollo 
+Desarrollo del proyecto de aplicaicónes móviles en la cuál se busca ahcer una aplicaicón movil de desarrollo
+
+Dante Spravkin Galina
+Enrique Isidro Sánchez
+Alan Yael Franco Monrroy
 
 Casos de uso
 
